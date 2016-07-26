@@ -1,0 +1,446 @@
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\App.config
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerUI.dll.config
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerUI.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerUI.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Antlr3.Runtime.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerAPI.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\EntityFramework.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\EntityFramework.SqlServer.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.Google.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Newtonsoft.Json.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Owin.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Net.Http.Formatting.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Helpers.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Http.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Http.Owin.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Http.WebHost.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Mvc.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Optimization.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Razor.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.WebPages.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\WebGrease.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerEntities.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerBLL.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerDAL.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerAPI.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Newtonsoft.Json.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Net.Http.Formatting.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Helpers.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Http.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Http.WebHost.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Mvc.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Optimization.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Razor.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.WebPages.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Antlr3.Runtime.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\EntityFramework.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\EntityFramework.SqlServer.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.Google.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\System.Web.Http.Owin.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerEntities.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerBLL.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\bin\CustomerDAL.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\obj\Release\CustomerUI.csprojResolveAssemblyReference.cache
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\obj\Release\CustomerUI.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerUI\obj\Release\CustomerUI.pdb
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\App.config
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerUI.dll.config
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerUI.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerUI.pdb
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Antlr3.Runtime.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerAPI.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\EntityFramework.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\EntityFramework.SqlServer.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Newtonsoft.Json.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Owin.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Net.Http.Formatting.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Helpers.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Http.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Http.Owin.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Http.WebHost.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Mvc.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Optimization.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Razor.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.WebPages.Deployment.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.WebPages.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.WebPages.Razor.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\WebGrease.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerEntities.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerBLL.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerDAL.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerAPI.pdb
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Newtonsoft.Json.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Net.Http.Formatting.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Helpers.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Http.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Http.WebHost.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Mvc.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Optimization.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Razor.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.WebPages.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.WebPages.Deployment.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.WebPages.Razor.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Antlr3.Runtime.pdb
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\EntityFramework.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\EntityFramework.SqlServer.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\System.Web.Http.Owin.xml
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerEntities.pdb
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerBLL.pdb
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\bin\CustomerDAL.pdb
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\obj\Release\CustomerUI.csprojResolveAssemblyReference.cache
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\obj\Release\CustomerUI.dll
+C:\Projects2016\Samples\AdvAutomation\angularjs-mvc-entityframework_restful_example-master\CustomerUI\obj\Release\CustomerUI.pdb
+D:\SmartTenantPortal\CustomerUI\bin\App.config
+D:\SmartTenantPortal\CustomerUI\bin\CustomerUI.dll.config
+D:\SmartTenantPortal\CustomerUI\bin\CustomerUI.dll
+D:\SmartTenantPortal\CustomerUI\bin\CustomerUI.pdb
+D:\SmartTenantPortal\CustomerUI\bin\Antlr3.Runtime.dll
+D:\SmartTenantPortal\CustomerUI\bin\CustomerAPI.dll
+D:\SmartTenantPortal\CustomerUI\bin\EntityFramework.dll
+D:\SmartTenantPortal\CustomerUI\bin\EntityFramework.SqlServer.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.Google.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Web.Infrastructure.dll
+D:\SmartTenantPortal\CustomerUI\bin\Newtonsoft.Json.dll
+D:\SmartTenantPortal\CustomerUI\bin\Owin.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Net.Http.Formatting.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Helpers.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Http.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Http.Owin.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Http.WebHost.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Mvc.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Optimization.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Razor.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.WebPages.Deployment.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.WebPages.dll
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.WebPages.Razor.dll
+D:\SmartTenantPortal\CustomerUI\bin\WebGrease.dll
+D:\SmartTenantPortal\CustomerUI\bin\CustomerBLL.dll
+D:\SmartTenantPortal\CustomerUI\bin\CustomerEntities.dll
+D:\SmartTenantPortal\CustomerUI\bin\CustomerDAL.dll
+D:\SmartTenantPortal\CustomerUI\bin\CustomerAPI.pdb
+D:\SmartTenantPortal\CustomerUI\bin\EntityFramework.xml
+D:\SmartTenantPortal\CustomerUI\bin\EntityFramework.SqlServer.xml
+D:\SmartTenantPortal\CustomerUI\bin\Newtonsoft.Json.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Net.Http.Formatting.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Helpers.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Http.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Http.WebHost.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Mvc.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Optimization.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Razor.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.WebPages.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.WebPages.Deployment.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.WebPages.Razor.xml
+D:\SmartTenantPortal\CustomerUI\bin\Antlr3.Runtime.pdb
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.Google.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SmartTenantPortal\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SmartTenantPortal\CustomerUI\bin\System.Web.Http.Owin.xml
+D:\SmartTenantPortal\CustomerUI\bin\CustomerBLL.pdb
+D:\SmartTenantPortal\CustomerUI\bin\CustomerEntities.pdb
+D:\SmartTenantPortal\CustomerUI\bin\CustomerDAL.pdb
+D:\SmartTenantPortal\CustomerUI\obj\Release\CustomerUI.csprojResolveAssemblyReference.cache
+D:\SmartTenantPortal\CustomerUI\obj\Release\CustomerUI.dll
+D:\SmartTenantPortal\CustomerUI\obj\Release\CustomerUI.pdb
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\App.config
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerUI.dll.config
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerUI.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerUI.pdb
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerAPI.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Net.Http.Formatting.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Http.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Http.WebHost.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Mvc.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerBLL.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerEntities.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerDAL.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerAPI.pdb
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\EntityFramework.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\EntityFramework.SqlServer.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Newtonsoft.Json.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Net.Http.Formatting.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Helpers.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Http.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Http.WebHost.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Mvc.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Optimization.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Razor.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.WebPages.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.WebPages.Deployment.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.WebPages.Razor.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Antlr3.Runtime.pdb
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.Security.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.Security.Google.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\System.Web.Http.Owin.xml
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerBLL.pdb
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerEntities.pdb
+D:\SmartTenantPortal18_06_16\CustomerUI\bin\CustomerDAL.pdb
+D:\SmartTenantPortal18_06_16\CustomerUI\obj\Release\CustomerUI.csprojResolveAssemblyReference.cache
+D:\SmartTenantPortal18_06_16\CustomerUI\obj\Release\CustomerUI.dll
+D:\SmartTenantPortal18_06_16\CustomerUI\obj\Release\CustomerUI.pdb
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\App.config
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerUI.dll.config
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerUI.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerUI.pdb
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerAPI.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Net.Http.Formatting.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.WebHost.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Mvc.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerBLL.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerEntities.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerDAL.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerAPI.pdb
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\EntityFramework.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\EntityFramework.SqlServer.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Newtonsoft.Json.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Net.Http.Formatting.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Helpers.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.WebHost.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Mvc.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Optimization.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Razor.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.WebPages.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.WebPages.Deployment.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.WebPages.Razor.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Antlr3.Runtime.pdb
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.Google.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.Owin.xml
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerBLL.pdb
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerEntities.pdb
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerDAL.pdb
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\obj\Release\CustomerUI.csprojResolveAssemblyReference.cache
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\obj\Release\CustomerUI.dll
+D:\Backup\Mass-MVC Backup\SmartTenantPortal07.07.16\CustomerUI\obj\Release\CustomerUI.pdb
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\App.config
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerUI.dll.config
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerUI.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerUI.pdb
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerAPI.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Net.Http.Formatting.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.WebHost.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Mvc.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerBLL.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerEntities.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerDAL.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerAPI.pdb
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\EntityFramework.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\EntityFramework.SqlServer.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Newtonsoft.Json.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Net.Http.Formatting.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Helpers.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.WebHost.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Mvc.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Optimization.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Razor.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.WebPages.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.WebPages.Deployment.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.WebPages.Razor.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Antlr3.Runtime.pdb
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.Google.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\System.Web.Http.Owin.xml
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerBLL.pdb
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerEntities.pdb
+D:\SmartTenantPortal07.07.16\CustomerUI\bin\CustomerDAL.pdb
+D:\SmartTenantPortal07.07.16\CustomerUI\obj\Release\CustomerUI.csprojResolveAssemblyReference.cache
+D:\SmartTenantPortal07.07.16\CustomerUI\obj\Release\CustomerUI.dll
+D:\SmartTenantPortal07.07.16\CustomerUI\obj\Release\CustomerUI.pdb
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\App.config
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerUI.dll.config
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerUI.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerUI.pdb
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerAPI.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Net.Http.Formatting.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Http.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Http.WebHost.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Mvc.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerBLL.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerEntities.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerDAL.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerAPI.pdb
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\EntityFramework.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\EntityFramework.SqlServer.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Newtonsoft.Json.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Net.Http.Formatting.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Helpers.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Http.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Http.WebHost.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Mvc.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Optimization.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Razor.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.WebPages.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.WebPages.Deployment.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.WebPages.Razor.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Antlr3.Runtime.pdb
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.Security.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\System.Web.Http.Owin.xml
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerBLL.pdb
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerEntities.pdb
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\bin\CustomerDAL.pdb
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\obj\Release\CustomerUI.csprojResolveAssemblyReference.cache
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\obj\Release\CustomerUI.dll
+C:\Projects2016\Samples\AdvAutomation\SmartTenantPortal20.07.16\CustomerUI\obj\Release\CustomerUI.pdb
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\App.config
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerUI.dll.config
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerUI.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerUI.pdb
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerAPI.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Net.Http.Formatting.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Http.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Http.WebHost.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Mvc.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerBLL.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerEntities.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerDAL.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerAPI.pdb
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\EntityFramework.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\EntityFramework.SqlServer.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Newtonsoft.Json.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Net.Http.Formatting.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Helpers.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Http.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Http.WebHost.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Mvc.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Optimization.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Razor.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.WebPages.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.WebPages.Deployment.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.WebPages.Razor.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Antlr3.Runtime.pdb
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.Security.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.Security.Google.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\System.Web.Http.Owin.xml
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerBLL.pdb
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerEntities.pdb
+D:\SmartTenantPortal23.07.16\CustomerUI\bin\CustomerDAL.pdb
+D:\SmartTenantPortal23.07.16\CustomerUI\obj\Release\CustomerUI.csprojResolveAssemblyReference.cache
+D:\SmartTenantPortal23.07.16\CustomerUI\obj\Release\CustomerUI.dll
+D:\SmartTenantPortal23.07.16\CustomerUI\obj\Release\CustomerUI.pdb

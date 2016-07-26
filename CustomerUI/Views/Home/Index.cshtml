@@ -1,0 +1,50 @@
+﻿
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.2/angular.min.js"></script>
+<link href="~/Content/CustomerPage.css" rel="stylesheet" />
+<link href="~/Content/css" rel="stylesheet" />
+
+<script src="~/Scripts/angular.js"></script>
+<script src="~/bootstrap.min.js"></script>
+@if (@User.Identity.IsAuthenticated)
+{
+    @*<div ng-include src="'Customer/Index'"></div>
+        <div id="mainContent" ng-view></div>*@ <!-- The SPA Views go here -->
+
+        <div ng-app="mycustomersApp" ng-controller="customersCtrl">
+            @*<div ng-include="'/Templates/list_.html'">aa</div>
+                <div ng-include="'/Templates/Create_.html'">aab</div>*@
+            <div id="">
+                @Html.Partial("_HeaderPage")
+            </div>
+            <div class="content-wrapper">
+                <!-- Content Header (Page header) -->
+                <section class="content-header"></section>
+                <!-- Main conte`nt -->
+
+                <div id="deviceinfo">
+                    <section id="mainContent">
+                        @Html.Partial("_DeviceInfo")
+                    </section><!-- /.content -->
+                </div>
+                <div id="projectsetting">
+                    <section id="mainContent2">
+                        @Html.Partial("_ProjectSetting")
+                    </section><!-- /.content -->
+                </div>
+
+            </div><!-- /.content-wrapper -->
+
+            <div id="footer">
+                @Html.Partial("_FooterPage")
+            </div>
+
+        </div>
+}
+else
+{
+    <div id="login">
+        @Html.Partial("_LoginPartial")
+    </div>  
+
+}
+ 

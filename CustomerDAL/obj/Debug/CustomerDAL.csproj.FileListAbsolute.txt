@@ -1,0 +1,12 @@
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\CustomerDAL.dll.config
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\CustomerDAL.dll
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\CustomerDAL.pdb
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\CustomerEntities.dll
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\EntityFramework.dll
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\CustomerEntities.pdb
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\EntityFramework.xml
+D:\SmartTenantPortal23.07.16\CustomerDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\SmartTenantPortal23.07.16\CustomerDAL\obj\Debug\CustomerDAL.csprojResolveAssemblyReference.cache
+D:\SmartTenantPortal23.07.16\CustomerDAL\obj\Debug\CustomerDAL.dll
+D:\SmartTenantPortal23.07.16\CustomerDAL\obj\Debug\CustomerDAL.pdb

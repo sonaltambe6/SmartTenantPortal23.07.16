@@ -1,0 +1,103 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+ 
+@Scripts.Render("~/bundles/modernizr")
+ 
+@Styles.Render("~/Content")
+ 
+@Scripts.Render("~/bundles/angularjs")
+@Scripts.Render("~/Content")
+@Scripts.Render("~/CustomerUI")
+
+        
+@if (@User.Identity.IsAuthenticated)
+{
+    @*<div ng-include src="'Customer/Index'"></div>
+        <div id="mainContent" ng-view></div>*@ <!-- The SPA Views go here -->
+
+        <div ng-app="mycustomersApp" ng-controller="customersCtrl">
+            @*<div ng-include="'/Templates/list_.html'">aa</div>
+                <div ng-include="'/Templates/Create_.html'">aab</div>*@
+            <div id="">
+                @Html.Partial("_HeaderPage")
+            </div>
+            <div class="content-wrapper">
+                <!-- Content Header (Page header) -->
+                <section class="content-header"></section>
+                <!-- Main conte`nt -->
+
+                <div id="deviceinfo">
+                    <section id="mainContent" >
+                        @Html.Partial("_DeviceInfo")
+                    </section><!-- /.content -->
+                </div>
+                <div id="projectsetting">
+                    <section id="mainContent2" >
+                        @Html.Partial("_ProjectSetting")
+                    </section><!-- /.content -->
+                </div>
+
+            </div><!-- /.content-wrapper -->
+
+            <div id="footer">
+                @Html.Partial("_FooterPage")
+            </div>
+
+        </div>
+
+}
+else
+{
+    <div id="login">
+        @Html.Partial("_LoginPartial")
+    </div>
+}
+    <script type="text/javascript">
+    $('select.div-toggle').change(function () {
+        var target = $(this).data('target');
+        var show = $("option:selected", this).data('show');
+        $(target).children().addClass('hide');
+        $(show).removeClass('hide');
+    });
+    </script>
+<script src="~/AppScripts/customer.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+D:\SmartTenantPortal23.07.16\CustomerEntities\bin\Debug\CustomerEntities.dll.config
+D:\SmartTenantPortal23.07.16\CustomerEntities\bin\Debug\CustomerEntities.dll
+D:\SmartTenantPortal23.07.16\CustomerEntities\bin\Debug\CustomerEntities.pdb
+D:\SmartTenantPortal23.07.16\CustomerEntities\bin\Debug\EntityFramework.dll
+D:\SmartTenantPortal23.07.16\CustomerEntities\bin\Debug\EntityFramework.SqlServer.dll
+D:\SmartTenantPortal23.07.16\CustomerEntities\bin\Debug\EntityFramework.xml
+D:\SmartTenantPortal23.07.16\CustomerEntities\bin\Debug\EntityFramework.SqlServer.xml
+D:\SmartTenantPortal23.07.16\CustomerEntities\obj\Debug\CustomerEntities.csprojResolveAssemblyReference.cache
+D:\SmartTenantPortal23.07.16\CustomerEntities\obj\Debug\CustomerEntities.dll
+D:\SmartTenantPortal23.07.16\CustomerEntities\obj\Debug\CustomerEntities.pdb

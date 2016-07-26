@@ -1,0 +1,11 @@
+D:\SmartTenantPortal23.07.16\CustomerBLL\obj\Debug\CustomerBLL.csprojResolveAssemblyReference.cache
+D:\SmartTenantPortal23.07.16\CustomerBLL\bin\Debug\CustomerBLL.dll
+D:\SmartTenantPortal23.07.16\CustomerBLL\bin\Debug\CustomerBLL.pdb
+D:\SmartTenantPortal23.07.16\CustomerBLL\bin\Debug\CustomerDAL.dll
+D:\SmartTenantPortal23.07.16\CustomerBLL\bin\Debug\CustomerEntities.dll
+D:\SmartTenantPortal23.07.16\CustomerBLL\bin\Debug\EntityFramework.dll
+D:\SmartTenantPortal23.07.16\CustomerBLL\bin\Debug\CustomerDAL.pdb
+D:\SmartTenantPortal23.07.16\CustomerBLL\bin\Debug\CustomerEntities.pdb
+D:\SmartTenantPortal23.07.16\CustomerBLL\bin\Debug\EntityFramework.xml
+D:\SmartTenantPortal23.07.16\CustomerBLL\obj\Debug\CustomerBLL.dll
+D:\SmartTenantPortal23.07.16\CustomerBLL\obj\Debug\CustomerBLL.pdb
